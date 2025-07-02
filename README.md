@@ -5,7 +5,6 @@ An interactive password generator built with **React** and **Vite**. This app al
 ---
 
 ## 🔗 Live Demo
-
 👉 [https://akultikkas11.github.io/Password-Generator/](https://akultikkas11.github.io/Password-Generator/)
 
 ---
